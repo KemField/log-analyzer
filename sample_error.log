@@ -1,0 +1,18 @@
+[2026-08-12 14:15:22] [CRITICAL] [client 192.168.1.105] HTTP 500 - Database connection failed: SQLSTATE[HY000] [2002] Connection refused in C:\xampp\htdocs\projekt\db.php
+[2026-08-12 14:16:01] [WARNING] [client 82.165.23.11] HTTP 404 - File not found: /admin/config.php in C:\xampp\htdocs\projekt\index.php
+[2026-08-12 14:17:45] [ERROR] [client 192.168.1.112] HTTP 500 - SQL Syntax Error: Unclosed quotation mark after the character string 'admin' in C:\xampp\htdocs\projekt\models\User.php
+[2026-08-12 14:18:10] [WARNING] [client 192.168.1.100] HTTP 404 - File not found: /favicon.ico in C:\xampp\htdocs\projekt\index.php
+[2026-08-12 14:20:00] [CRITICAL] [client 10.0.0.12] HTTP 500 - Memory Limit Exceeded: PHP Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\projekt\parser.php
+[2026-08-12 14:22:18] [ERROR] [client 192.168.1.200] HTTP 500 - UTF-8 Encoding mismatch: Invalid UTF-8 sequence in argument in C:\xampp\htdocs\projekt\utils\helpers.php
+[2026-08-12 14:24:05] [WARNING] [client 192.168.1.100] HTTP 403 - Forbidden: Access denied for directory /uploads/private/ in C:\xampp\htdocs\projekt\index.php
+[2026-08-12 14:25:30] [ERROR] [client 172.16.5.40] HTTP 500 - Database Query Failed: Table 'support_dashboard.wrong_table' doesn't exist in C:\xampp\htdocs\projekt\api\get_logs.php
+[2026-08-12 14:28:12] [CRITICAL] [client 192.168.1.105] HTTP 500 - Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' in C:\xampp\htdocs\projekt\db.php
+[2026-08-12 14:30:45] [WARNING] [client 192.168.1.122] HTTP 404 - File not found: /assets/css/nonexistent.css in C:\xampp\htdocs\projekt\index.php
+[2026-08-12 14:32:00] [ERROR] [client 192.168.1.12] HTTP 500 - PHP Fatal error: Uncaught Error: Call to undefined function array_key_first() in C:\xampp\htdocs\projekt\legacy\compat.php
+[2026-08-12 14:34:15] [WARNING] [client 82.165.23.11] HTTP 404 - File not found: /wp-login.php in C:\xampp\htdocs\projekt\index.php
+[2026-08-12 14:36:20] [CRITICAL] [client 10.0.0.15] HTTP 500 - PHP Fatal error: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\projekt\reports.php
+[2026-08-12 14:38:55] [ERROR] [client 192.168.1.18] HTTP 500 - JSON Parsing Error: Syntax error, malformed JSON in C:\xampp\htdocs\projekt\api\webhooks.php
+[2026-08-12 14:40:11] [WARNING] [client 192.168.1.25] HTTP 404 - File not found: /robots.txt in C:\xampp\htdocs\projekt\index.php
+[2026-08-12 14:42:04] [ERROR] [client 192.168.1.10] HTTP 500 - PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'timestamp' cannot be null in C:\xampp\htdocs\projekt\parser.php
+[2026-08-12 14:44:30] [WARNING] [client 192.168.1.99] HTTP 401 - Unauthorized: Missing Authorization Header in C:\xampp\htdocs\projekt\api\secure_endpoint.php
+[2026-08-12 14:46:15] [CRITICAL] [client 192.168.1.5] HTTP 500 - PHP Fatal error: Class 'DomDocument' not found in C:\xampp\htdocs\projekt\xml_parser.php

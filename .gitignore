@@ -1,0 +1,38 @@
+# OS Metadata Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs and Editors Settings
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# Web Server & Cache files
+error_log
+access_log
+*.log
+!sample_error.log
+.htaccess
+
+# PHP / Composer (if applicable later)
+vendor/
+composer.lock
+
+# Local Configuration / Backups
+*.bak
+*.tmp
+*.temp
+*~
